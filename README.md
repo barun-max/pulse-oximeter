@@ -14,3 +14,7 @@ Learning PCB design and studying the MAX30102 datasheet.
 ## Next steps
 - Finalize block diagram
 - Start schematic design
+
+Scope: Wired prototype focused on understanding optical pulse measurement
+and PCB noise considerations. No wireless features in v1.
+
